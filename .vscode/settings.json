@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "spritecomponent.h": "c",
+        "levelmanager.h": "c"
+    }
+}
